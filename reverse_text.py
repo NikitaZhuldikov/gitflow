@@ -1,4 +1,6 @@
 def reverse_text(value):
-    """Функция отражающая текст"""
+    "Проверяем функцию docstring"
     return value[::-1]
+
+help(reverse_text)
         
